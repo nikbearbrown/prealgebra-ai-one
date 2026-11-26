@@ -1,0 +1,5 @@
+# A proposed study sequence
+
+Start with the [chapter index](../chapters/README.md). Ask learners to make ledger moves first, then to redraw a fractional amount, use the unchanged per-serving rate, write the boundary equation, and compare chart scales. The [household puzzle](../practice/household-puzzle.md) and [key](../practice/answer-key.md) assess the steps and their verification. All material needed for the assignment appears in text and tables; peer or tool feedback after the first attempt is optional.
+
+The [Prealgebra Blueprint](https://github.com/nikbearbrown/ai-plus-one-paper/blob/main/book-queue/editorial-blueprints/20-prealgebra-ai-one.md) defines an entry course, not a placement test. This is a proposed sequence, not an adopted syllabus or classroom validation. The original compact draft does not import or relicense any material from the older OpenStax-derived manuscripts. Different editions and snapshots can state different reuse terms; confirm the exact upstream version before adapting any older asset.

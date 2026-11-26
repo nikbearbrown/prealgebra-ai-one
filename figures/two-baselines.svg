@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="388" viewBox="0 0 720 388" role="img" aria-labelledby="title desc">
+<title id="title">Two baselines for the same account balances</title>
+<desc id="desc">Two small packages leave 25 dollars and 50 cents, two large leave 24 dollars and 50 cents. Top bars encode full amounts. Bottom bars start at 24 dollars, so they encode 1 dollar 50 cents and 50 cents above that threshold.</desc>
+<rect width="720" height="388" fill="#ffffff"/>
+<g fill="#142534" font-family="sans-serif">
+<text x="20" y="29" font-size="20" font-weight="bold">A. Full balances, starting at $0</text>
+<text x="20" y="67" font-size="17">Two small</text><text x="20" y="108" font-size="17">Two large</text>
+<text x="626" y="67" font-size="17">$25.50</text><text x="610" y="108" font-size="17">$24.50</text>
+<text x="20" y="216" font-size="20" font-weight="bold">B. Same balances, starting at $24</text>
+<text x="20" y="254" font-size="17">Two small</text><text x="20" y="295" font-size="17">Two large</text>
+<text x="557" y="254" font-size="17">$25.50</text><text x="287" y="295" font-size="17">$24.50</text>
+<g font-size="15" text-anchor="middle">
+<text x="145" y="160">$0</text><text x="325" y="160">$10</text><text x="505" y="160">$20</text><text x="631" y="160">$27</text>
+<text x="145" y="348">$24.00</text><text x="280" y="348">$24.50</text><text x="415" y="348">$25.00</text><text x="550" y="348">$25.50</text><text x="631" y="348">$25.80</text>
+</g>
+</g>
+<g fill="#12667a">
+<rect x="145" y="48" width="459" height="26"/><rect x="145" y="89" width="441" height="26"/>
+<rect x="145" y="235" width="405" height="26"/><rect x="145" y="276" width="135" height="26"/>
+</g>
+<g fill="#142534">
+<rect x="145" y="43" width="2" height="94"/><rect x="145" y="137" width="486" height="2"/><rect x="325" y="137" width="2" height="6"/><rect x="505" y="137" width="2" height="6"/><rect x="631" y="137" width="2" height="6"/>
+<rect x="145" y="229" width="2" height="95"/><rect x="145" y="324" width="486" height="2"/><rect x="280" y="324" width="2" height="6"/><rect x="415" y="324" width="2" height="6"/><rect x="550" y="324" width="2" height="6"/><rect x="631" y="324" width="2" height="6"/>
+</g>
+</svg>
